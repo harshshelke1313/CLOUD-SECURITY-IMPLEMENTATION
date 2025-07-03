@@ -120,5 +120,7 @@ This task taught critical concepts in cloud security by implementing IAM roles, 
 
 #Output-
 
+![Image](https://github.com/user-attachments/assets/d334dfcf-bbf4-45ba-ad13-04a95c2f0286)
+
 
 
